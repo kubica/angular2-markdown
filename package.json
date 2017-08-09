@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "angular2-markdown",
+        "scope": null,
+        "escapedName": "angular2-markdown",
+        "name": "angular2-markdown",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/tommy/Documents/Uni/Arbeit/amcs-webclient-v3"
+    ]
+  ],
+  "_from": "angular2-markdown@latest",
+  "_id": "angular2-markdown@1.6.0",
+  "_inCache": true,
+  "_location": "/angular2-markdown",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/angular2-markdown-1.6.0.tgz_1492937189561_0.0665249559096992"
+  },
+  "_npmUser": {
+    "name": "dimpu",
+    "email": "buddhaaravind@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angular2-markdown",
+    "scope": null,
+    "escapedName": "angular2-markdown",
+    "name": "angular2-markdown",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-markdown/-/angular2-markdown-1.6.0.tgz",
+  "_shasum": "8636bf9daad70fc35633126707ffb33e684fbab1",
+  "_shrinkwrap": null,
+  "_spec": "angular2-markdown",
+  "_where": "/Users/tommy/Documents/Uni/Arbeit/amcs-webclient-v3",
+  "author": {
+    "name": "Dimpu Aravind Buddha",
+    "email": "buddhaaravind@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dimpu/angular2-markdown/issues"
+  },
+  "dependencies": {
+    "marked": "^0.3.6",
+    "prismjs": "^1.6.0"
+  },
+  "description": "[![Build Status][travis-badge]][travis-badge-url] [![npm][circleci-badge-url]][circleci-url] [![version][npm-badge-url]][npm-url] [![npm][license-badge-url]][license-url] [![npm][dep-badge-url]][dep-url]",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8636bf9daad70fc35633126707ffb33e684fbab1",
+    "tarball": "https://registry.npmjs.org/angular2-markdown/-/angular2-markdown-1.6.0.tgz"
+  },
+  "homepage": "https://github.com/dimpu/angular2-markdown#readme",
+  "keywords": [
+    "ng",
+    "angular",
+    "angular2",
+    "markdown",
+    "prismjs"
+  ],
+  "license": "MIT",
+  "main": "bundles/angular2-markdown.umd.js",
+  "maintainers": [
+    {
+      "name": "dimpu",
+      "email": "buddhaaravind@gmail.com"
+    }
+  ],
+  "module": "index.js",
+  "name": "angular2-markdown",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "rxjs": "^5.1.0",
+    "@angular/core": "^2.4.0 || ^4.0.3",
+    "@angular/http": "^2.4.0 || ^4.0.3"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dimpu/angular2-markdown.git"
+  },
+  "scripts": {},
+  "typings": "index.d.ts",
+  "version": "1.6.0"
+}
