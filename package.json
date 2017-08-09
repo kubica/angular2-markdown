@@ -81,7 +81,7 @@
     }
   ],
   "module": "index.js",
-  "name": "angular2-markdown",
+  "name": "angular2-markdown-fix",
   "optionalDependencies": {},
   "peerDependencies": {
     "rxjs": "^5.1.0",
